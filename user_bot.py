@@ -37,4 +37,4 @@ async def say_hello(
     # Send a message with the button
     await ctx.respond(f"Command is ready. Press the button below to spam your message", view=view, ephemeral=True)
 
-bot.run("MTM2NTc1NjIyOTc1ODIyMjQ4Ng.GsaxNo.MM7Nd5GYTOhK8gILdwPXxj7x1AMYySv_IhYVAA")
+bot.run("token")
