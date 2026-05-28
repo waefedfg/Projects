@@ -3,7 +3,7 @@ import os
 
 api_key = os.getenv("WEATHER_API_KEY")
 
-class AllInfo:
+class daweathergrabber:
 	def __init__(self, data):
 		self.city = data['location']['name']
 		self.region = data['location']['region']
