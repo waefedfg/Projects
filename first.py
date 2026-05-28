@@ -3,7 +3,7 @@ import discord
 bot = discord.Bot()
 
 # Use a placeholder for token for security reasons
-token = "MTA0NjU1MjM5Mzc0OTM3NzA4Ng.GXV207.zIirYDvfd49mtFpbA_2jA_7_3m-XqS6sPaSfdE"
+token = "Put the tokennnnnn"
 
 @bot.event
 async def on_ready():
